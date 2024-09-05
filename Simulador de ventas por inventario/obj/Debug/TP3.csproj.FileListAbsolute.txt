@@ -1,0 +1,10 @@
+C:\Users\franc\OneDrive\Documentos\GitHub\TP3-SIM\bin\Debug\Borrador tp3.exe.config
+C:\Users\franc\OneDrive\Documentos\GitHub\TP3-SIM\bin\Debug\Borrador tp3.exe
+C:\Users\franc\OneDrive\Documentos\GitHub\TP3-SIM\bin\Debug\Borrador tp3.pdb
+C:\Users\franc\OneDrive\Documentos\GitHub\TP3-SIM\obj\Debug\TP3.csproj.AssemblyReference.cache
+C:\Users\franc\OneDrive\Documentos\GitHub\TP3-SIM\obj\Debug\Borrador_tp3.Inicio.resources
+C:\Users\franc\OneDrive\Documentos\GitHub\TP3-SIM\obj\Debug\Borrador_tp3.Properties.Resources.resources
+C:\Users\franc\OneDrive\Documentos\GitHub\TP3-SIM\obj\Debug\TP3.csproj.GenerateResource.cache
+C:\Users\franc\OneDrive\Documentos\GitHub\TP3-SIM\obj\Debug\TP3.csproj.CoreCompileInputs.cache
+C:\Users\franc\OneDrive\Documentos\GitHub\TP3-SIM\obj\Debug\Borrador tp3.exe
+C:\Users\franc\OneDrive\Documentos\GitHub\TP3-SIM\obj\Debug\Borrador tp3.pdb
